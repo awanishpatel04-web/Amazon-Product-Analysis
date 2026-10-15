@@ -48,7 +48,8 @@ An interactive Power BI dashboard was created to visualize key performance indic
 Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, SQL, Python, and Power BI.
 
 ## Power BI Dashboard
-!Dashboard.png
+
+![Amazon Product Analysis Dashboard](dashboard.png)
 
 ## Author
 Awanish Kumar Patel
